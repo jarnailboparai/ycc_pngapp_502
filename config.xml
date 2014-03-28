@@ -42,7 +42,7 @@
 
 
 
-    <icon src="1394632770_220px-RegistrationMark.png" />
+    <icon src="icon.png" />
 
     <gap:splash src="splash.png" />
 
